@@ -1,5 +1,9 @@
 # CarePath Project Scope
 
+## Scope Boundary Diagram
+
+![CarePath scope boundary](./CarePath-Scope-Diagram.jpg)
+
 ## Scope Statement
 
 The project covers the outpatient referral journey from the submission of a
