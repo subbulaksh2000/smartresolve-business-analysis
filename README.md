@@ -85,3 +85,34 @@ Design an improved referral management process and conceptual digital solution t
 The proposed AI capability may identify missing referral information, recommend an
 administrative category and flag referrals for review. It must not independently
 diagnose a patient, determine final clinical urgency or make treatment decisions.
+
+## Project Deliverables
+
+### Project Initiation
+
+- [Problem Statement](./01-Project-Initiation/Problem-Statement.md)
+- [Project Objectives](./01-Project-Initiation/Project-Objectives.md)
+- [Project Scope](./01-Project-Initiation/Project-Scope.md)
+
+### Stakeholder Analysis
+
+- [Stakeholder Register](./02-Stakeholder-Analysis/Stakeholder-Register.md)
+- [Power–Interest Matrix](./02-Stakeholder-Analysis/Power-Interest-Matrix.md)
+- [RACI Matrix](./02-Stakeholder-Analysis/RACI-Matrix.md)
+
+### Process Analysis and Smart Agile Hub Design
+
+- [AS-IS Process Analysis](./03-Process-Analysis/AS-IS-Process-Analysis.md)
+- [Pain-Point and Root-Cause Analysis](./03-Process-Analysis/Pain-Point-and-Root-Cause-Analysis.md)
+- [TO-BE Process Analysis](./03-Process-Analysis/TO-BE-Process-Analysis.md)
+- [TO-BE Process Flowchart](./03-Process-Analysis/TO-BE-Process-Flowchart.md)
+
+### Requirements and Agile Delivery
+
+- [Functional Requirements](./04-Requirements/Functional-Requirements.md)
+- [Non-Functional Requirements](./04-Requirements/Non-Functional-Requirements.md)
+- [Epics and User Stories](./05-Agile-Delivery/Epics-and-User-Stories.md)
+
+### Manager Presentation
+
+- [Manager Presentation Summary](./06-Manager-Presentation/Manager-Presentation-Summary.md)
