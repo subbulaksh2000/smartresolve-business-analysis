@@ -101,3 +101,25 @@ The described pain points and process steps are hypotheses for this fictional
 portfolio project. In a real engagement, they would be validated through
 stakeholder interviews, process observation, document review and operational
 data analysis.
+
+## Smart Agile Hub Transformation Context
+
+Smart Agile Hub is not part of the AS-IS process. It is the proposed enabling
+platform for moving from the current manual process to the CarePath TO-BE
+process. Keeping this distinction prevents future capabilities from being
+incorrectly represented as current-state activities.
+
+| AS-IS Pain Point | Proposed Smart Agile Hub Response | Human Control |
+|---|---|---|
+| Referrals arrive in inconsistent formats | Digital Intake Agent captures a standard referral record | Referrer remains responsible for the submitted information |
+| Completeness checks are manual | Validation Agent checks required fields and documents | Administration officer reviews exceptions |
+| Missing-information follow-up is unstructured | Notification Agent prepares a follow-up draft | Staff review the request before communication when required |
+| Administrative routing is inconsistent | Routing Agent recommends a specialty using approved rules | Administration officer confirms or corrects the route |
+| Clinical decisions may be delayed by administrative work | Workflow Agent sends validated referrals to the clinical-review queue | Authorised clinicians make every clinical decision |
+| Appointment actions are disconnected | Workflow Agent creates a booking task after clinical acceptance | Scheduling officer selects and confirms the appointment |
+| Status and communications are difficult to trace | Audit Agent records material actions and status changes | Authorised users review and investigate the history |
+| Operational reporting is manual | Reporting Agent prepares standardised operational data for Power BI | Operations managers interpret results and decide actions |
+
+The proposed transformation is described in the
+[TO-BE Process Analysis](./TO-BE-Process-Analysis.md) and
+[TO-BE Process Flowchart](./TO-BE-Process-Flowchart.md).
